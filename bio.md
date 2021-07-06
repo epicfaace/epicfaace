@@ -1,1 +1,3 @@
 Ashwin Ramaswami currently works with the Cybersecurity and Infrastructure Security Agency, where he leads development of the open source vulnerability scanning tool Crossfeed. He is from Atlanta, GA and works on web / application architecture and open source development as well as tech policy. He received an undergraduate degree in Computer Science from Stanford University and is currently at Georgetown Law.
+
+Ashwin Ramaswami is from Johns Creek, GA. He works on web application architecture as well as tech policy. He received an undergraduate degree in Computer Science from Stanford University and is currently attending Georgetown Law.
